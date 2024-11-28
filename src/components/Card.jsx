@@ -10,7 +10,7 @@ export default function Card() {
           alt="..."
         />
         <div className="card-body">
-          <h5 className="card-title">Titolo Post</h5>
+          <h5 className="card-title">Titolo del Post</h5>
           <p className="card-text">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis,
             enim obcaecati iure, natus qui laudantium quaerat reprehenderit
