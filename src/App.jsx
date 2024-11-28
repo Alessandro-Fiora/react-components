@@ -9,7 +9,7 @@ import "./App.css";
 function App() {
   return (
     <>
-      <div className="wrapper">
+      <div className="wrapper d-flex flex-column">
         <Main></Main>
         <Footer></Footer>
       </div>

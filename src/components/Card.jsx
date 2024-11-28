@@ -1,9 +1,9 @@
-import Button from "./Button";
+import Button from "./Button/Button";
 
 export default function Card() {
   return (
     <div className="d-flex justify-content-center p-3">
-      <div className="card">
+      <div className="card my-3">
         <img
           src="placeholder.png"
           className="card-img-top img-fluid"
